@@ -1,13 +1,13 @@
-package com.gsoft.studentsmanagement;
+package com.gsoft.studentmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudentsmanagementApplication {
+public class StudentmanagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StudentsmanagementApplication.class, args);
+		SpringApplication.run(StudentmanagementApplication.class, args);
 	}
 
 }
